@@ -1,0 +1,10 @@
+[theme]
+primaryColor="#d42d5e"
+backgroundColor="#1a0d39"
+secondaryBackgroundColor="#08080a"
+textColor="#fafaff"
+font="monospace"
+
+[runner]
+magicEnabled = true
+fastReruns = true
